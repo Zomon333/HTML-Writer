@@ -1,0 +1,6 @@
+index.txt has been opened status is 1H1 header has been used.
+Horizontal rule has been used.
+Italics has been used.
+Bold has been used.
+Quitting program.
+<HTML><HEAD></HEAD><BODY><H1>BEANS BEANS BEANS!</H1><HR></HR><EM>They're my favorite fruit</BR><B>B O L D</B><P></BODY></HTML>Closing log.
